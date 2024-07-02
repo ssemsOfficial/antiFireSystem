@@ -33,7 +33,14 @@ let's build our embedded systems one by one :
   
   ![Global class](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/1ffcebb3-576b-48e6-bbf1-b80bfedd363a)
 
-  
+  embedded software engineering part : 
+  ![SDLC](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/721f674c-7192-4740-8181-05db8b63a32a)
+          
+          Reserve Controlling Sub System :                      
+          ![reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3b538ab0-4ebb-4df6-a386-efddc77e864c)
+          ![reserve1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/fc2c8510-396d-42c4-ad0a-66380f64b202)
+
+
 
     
 # AI PART :
