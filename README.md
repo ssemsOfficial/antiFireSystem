@@ -37,11 +37,11 @@ let's build our embedded systems one by one :
   ![SDLC](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/721f674c-7192-4740-8181-05db8b63a32a)
           
   Reserve Controlling Sub System :                      
-  ![reserve1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/fc2c8510-396d-42c4-ad0a-66380f64b202)
+  ![reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3b538ab0-4ebb-4df6-a386-efddc77e864c)
   ![tab reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/f4c9d30c-5304-449c-9e38-5341262926f1)
   ![tab reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/eb3abf96-05cc-45ad-b30a-ec457a880673)
   ![tab reserve actions](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/94c5362c-bbb7-446d-a8f1-4077c0528133)
-  ![reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3b538ab0-4ebb-4df6-a386-efddc77e864c)
+  ![reserve1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/fc2c8510-396d-42c4-ad0a-66380f64b202)
 
   Temperature Controlling Sub System : 
   ![temp1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/a252c739-86f8-4fe4-b711-219224fb4766)
@@ -49,15 +49,26 @@ let's build our embedded systems one by one :
   ![temp2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/b817a5da-fb49-44c1-bde0-3b82b0814911)
 
   Battery Controlling Sub System :
+  
   ![bat2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/54136746-80ee-4c1d-8667-e15eb7aabe40)
   ![bat table](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/4b14c481-0db2-4eca-a576-97d50d1b3ba9)
   ![bat1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/f3d59104-9c84-44f0-82f0-6fc64fbb69e6)
 
   Alert Controlling Sub System : 
   
+  ![alert2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/9f4ac238-794b-4adc-873e-9adc8e56f1b6)
+  ![alert1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/10d98eaf-a12c-471f-9248-2b29f4de0060)
+
+test software in simulation mode :
+![simulation auto](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/ee0e6527-2b05-4bdf-8251-8d4bd49769a7)
+![simulation man](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/6d80b79e-72b4-4896-9846-45b6dad3740a)
 
 
-  
+embedded hardware engineering part :
+![shema electronique](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/2716a623-25e0-45fb-873a-e197bc52c1e6)
+
+
+
 
 
 
