@@ -37,8 +37,27 @@ let's build our embedded systems one by one :
   ![SDLC](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/721f674c-7192-4740-8181-05db8b63a32a)
           
   Reserve Controlling Sub System :                      
-  ![reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3b538ab0-4ebb-4df6-a386-efddc77e864c)
   ![reserve1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/fc2c8510-396d-42c4-ad0a-66380f64b202)
+  ![tab reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/f4c9d30c-5304-449c-9e38-5341262926f1)
+  ![tab reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/eb3abf96-05cc-45ad-b30a-ec457a880673)
+  ![tab reserve actions](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/94c5362c-bbb7-446d-a8f1-4077c0528133)
+  ![reserve](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3b538ab0-4ebb-4df6-a386-efddc77e864c)
+
+  Temperature Controlling Sub System : 
+  ![temp1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/a252c739-86f8-4fe4-b711-219224fb4766)
+  ![tab temperature ](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/e93f9551-6df9-4aeb-9ee5-2772bcc48c93)
+  ![temp2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/b817a5da-fb49-44c1-bde0-3b82b0814911)
+
+  Battery Controlling Sub System :
+  ![bat2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/54136746-80ee-4c1d-8667-e15eb7aabe40)
+  ![bat table](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/4b14c481-0db2-4eca-a576-97d50d1b3ba9)
+  ![bat1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/f3d59104-9c84-44f0-82f0-6fc64fbb69e6)
+
+  Alert Controlling Sub System : 
+  
+
+
+  
 
 
 
