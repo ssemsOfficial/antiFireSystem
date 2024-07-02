@@ -68,9 +68,10 @@ embedded hardware engineering part :
 ![shema electronique](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/2716a623-25e0-45fb-873a-e197bc52c1e6)
 
 
+![shema carte 1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/085967f6-de51-454f-b758-a1e6b3ded99a)
+![shema carte 1 1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/335c14ce-4c03-4064-8a38-0409b2140b13)
 
+![shema carte 2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/b39b10f5-b6fd-40df-8d83-145f5c5841ac)
+![shema carte2 2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3865e305-a57c-4caa-8f5b-5b81c557b84c)
 
-
-
-    
 # AI PART :
