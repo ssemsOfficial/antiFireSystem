@@ -65,6 +65,7 @@ test software in simulation mode :
 
 
 embedded hardware engineering part :
+Design :
 ![shema electronique](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/2716a623-25e0-45fb-873a-e197bc52c1e6)
 
 
@@ -73,5 +74,13 @@ embedded hardware engineering part :
 
 ![shema carte 2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/b39b10f5-b6fd-40df-8d83-145f5c5841ac)
 ![shema carte2 2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3865e305-a57c-4caa-8f5b-5b81c557b84c)
+
+test & realization : 
+![testr1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/0354910c-ae32-41c4-b845-cd5ba7240ed8)![real](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/647e5ddf-6e14-479d-aae0-edee19d93005)
+
+![real 2](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/6730a7c0-ecee-4b0e-ad5d-a69d7ff30bcf)
+![real1](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/2bf53857-32c0-411b-be9d-86db4fe4c3a2)
+![real3](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/af9f5a8b-b67a-47e6-9f6b-98d642b27da5)
+![real4](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/39174fc7-4d0d-49cc-9276-cda2e0e8b29b)
 
 # AI PART :
