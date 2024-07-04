@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Client</title>
+</head>
+<body>
+    <h1>WebSocket Client</h1>
+    <button id="sendButton">Send Message to Server</button>
+    
+    <br/>
+    mode
+    <input type="checkbox" id="mode" />
+    <br/>
+    temperature
+    <input type="range" id="temperature" />
+    <br/>
+    reserve
+    <input type="checkbox" id="reserve" />
+    <br/>
+    battery power
+    <input type="checkbox" id="batteryPower" />
+
+
+    <br/>
+    motor group
+    <input type="checkbox" id="motorGroup" />
+    <br/>
+    battery
+    <input type="checkbox" id="battery" />
+    <br/>
+    pump
+    <input type="checkbox" id="pump" />
+  
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.1.3/socket.io.js"></script>
+    <script>
+        const socket = io('http://localhost:8000/hydrogen-group'); // Connect to server
+        //const socket = io('http://localhost:3000');
+        const topic_name = 'hydrogenGroup1'
+        // Event listener for button click
+        document.getElementById('sendButton').addEventListener('click', () => {
+            const msg = 'Hello from client';
+            socket.emit('custom_event', 'Hello from client');
+        });
+        document.getElementById('temperature').addEventListener('change', () => {
+            const data = document.getElementById('temperature').value;
+            socket.emit('onTemperature', {topic : topic_name, value:  data});
+        });
+        document.getElementById('batteryPower').addEventListener('change', () => {
+            if(document.getElementById('batteryPower').checked)
+                socket.emit('onBattery', {topic : topic_name, value: 'on'});
+            else
+                socket.emit('onBattery', {topic : topic_name, value: 'cut off'});
+        });
+        document.getElementById('mode').addEventListener('change', () => {
+            if(document.getElementById('mode').checked)
+                socket.emit('onMode', {topic : topic_name, value: 'auto'});
+            else
+                socket.emit('onMode', {topic : topic_name, value: 'man'});
+        });
+        document.getElementById('reserve').addEventListener('change', () => {
+            if(document.getElementById('reserve').checked)
+                socket.emit('onReserve', {topic : topic_name, value: 'full'});
+            else
+                socket.emit('onReserve', {topic : topic_name, value: 'empty'});
+        });
+        
+
+
+        document.getElementById('motorGroup').addEventListener('change', () => {
+            if(document.getElementById('motorGroup').checked)
+                socket.emit('motorGroup', {topic : topic_name, value: 'on'});
+            else
+                socket.emit('motorGroup', {topic : topic_name, value: 'off'});    
+        });
+        document.getElementById('battery').addEventListener('change', () => {
+            if(document.getElementById('battery').checked)
+                socket.emit('battery', {topic : topic_name, value: 'charged'});
+            else
+                socket.emit('battery', {topic : topic_name, value: 'low'});    
+        });
+        document.getElementById('pump').addEventListener('change', () => {
+            if(document.getElementById('pump').checked)
+                socket.emit('pump', {topic : topic_name, value: 'on'});
+            else
+                socket.emit('pump', {topic : topic_name, value: 'off'});    
+        });
+
+
+
+
+        // Event listener for receiving response from server
+        socket.on('response', (response) => {
+            console.log('Received response from server: ' + response);
+        });
+    </script>
+</body>
+</html>
