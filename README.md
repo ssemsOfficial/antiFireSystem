@@ -6,7 +6,7 @@ in the industry there's a big risk of fire that damage the resources and the bus
 # IoT PART : 
   
 1- Gloabal IoT Diagram :
-![345020719-87046f49-a8b1-48dc-b498-d0ebad81a3bf](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/5f94e7a5-3fb1-4318-833d-9bcae1223fd2)
+![345020719-87046f49-a8b1-48dc-b498-d0ebad81a3bf (1)](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/1906c803-8594-412b-9a9b-a43e236dea0c)
 
 
 2- PART I  (automation layer) : 
