@@ -23,11 +23,11 @@ let's build our embedded systems one by one :
   
   synoptic shema :
   
-  ![synoptic shema](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/0330c5d2-33b2-48bc-9994-64241e9d7929)
+  ![synoptic shema](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/3241109d-8ec8-40b6-aaf9-e6373aeeca7f)
 
   Global StateMachine Diagram :
   
-  ![systeme globale](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/d2cdd066-ffa9-4c2e-8ba2-a3ea30d6fed1)
+  ![systeme globale](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/a3e5dff3-68db-454f-86e6-d740d0cb344f)
   ![global table](https://github.com/ssemsOfficial/antiFireSystem/assets/84194047/22e9f2f3-be67-4d3e-9297-5c0c7cdd96a4)
 
   Global Class Diagram : 
